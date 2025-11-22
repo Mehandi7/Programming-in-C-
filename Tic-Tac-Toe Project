@@ -55,7 +55,7 @@ int main(){
         if (i==1)
         printf("\nPlayer %d WINNER",--Player);
         else
-        printf("\n5Game Draw");
+        printf("\nGame Draw");
 
         getch(); 
         return 0; 
